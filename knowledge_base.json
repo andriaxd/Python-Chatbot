@@ -1,0 +1,76 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "Hi there!"
+    },
+    {
+      "question": "Yo",
+      "answer": "Hi!"
+    },
+    {
+      "question": "Whats the capital of italy",
+      "answer": "rome"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hello"
+    },
+    {
+      "question": "whats up",
+      "answer": "not much"
+    },
+    {
+      "question": "yo",
+      "answer": "hi"
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "answer": "The play 'Romeo and Juliet' was written by William Shakespeare."
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "The boiling point of water is 100 degrees Celsius (212 degrees Fahrenheit) at sea level."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "Jupiter is the largest planet in our solar system."
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "answer": "The Mona Lisa was painted by Leonardo da Vinci."
+    },
+    {
+      "question": "What is the formula for the area of a circle?",
+      "answer": "The formula for the area of a circle is A = \u041f\u0402r^2, where 'A' is the area and 'r' is the radius."
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "answer": "The chemical symbol for gold is 'Au'."
+    },
+    {
+      "question": "Who discovered the theory of relativity?",
+      "answer": "Albert Einstein is credited with discovering the theory of relativity."
+    },
+    {
+      "question": "What is the largest mammal on Earth?",
+      "answer": "The blue whale is the largest mammal on Earth."
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "answer": "The currency of Japan is the Japanese Yen (JPY)."
+    },
+    {
+      "question": "sup",
+      "answer": "not much"
+    },
+    {
+      "question": "hello",
+      "answer": ""
+    }
+  ]
+}
